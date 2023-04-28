@@ -4,6 +4,7 @@
   "private": true,
   "author": "bhpcv252",
   "scripts": {
+    "start": "npm run dev",
     "dev": "parcel index.pug",
     "build": "parcel build index.pug"
   },
